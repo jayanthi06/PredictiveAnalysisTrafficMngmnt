@@ -8,33 +8,33 @@ This project focuses on utilizing predictive analytics to enhance urban traffic 
 
 The dataset employed in this project includes:
 
-- **Traffic Volume Counts**: Detailed records of vehicle counts at various urban locations over specified time intervals.
+- **Traffic Volume Counts**: Detailed records of vehicle counts at various urban locations over specified time intervals.
 
 ## Methodology
 
 1. **Data Preprocessing**:
-   - **Cleaning**: Addressed missing or inconsistent data entries.
-   - **Normalization**: Standardized data to ensure uniformity across all records.
+   - **Cleaning**: Addressed missing or inconsistent data entries.
+   - **Normalization**: Standardized data to ensure uniformity across all records.
 
 2. **Exploratory Data Analysis (EDA)**:
-   - Visualized traffic trends over time.
-   - Identified peak traffic hours and high-congestion zones.
+   - Visualized traffic trends over time.
+   - Identified peak traffic hours and high-congestion zones.
 
 3. **Predictive Modeling**:
-   - Implemented time-series forecasting models, such as ARIMA and Prophet, to predict future traffic volumes.
-   - Evaluated model performance using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+   - Implemented time-series forecasting models, such as ARIMA and Prophet, to predict future traffic volumes.
+   - Evaluated model performance using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
 4. **Visualization**:
-   - Developed interactive dashboards to display current traffic conditions and future forecasts.
+   - Developed interactive dashboards to display current traffic conditions and future forecasts.
 
 ## Results
 
 The predictive models achieved:
 
-- **ARIMA Model**: MAE of X and RMSE of Y.
-- **Prophet Model**: MAE of A and RMSE of B.
+- **ARIMA Model**: MAE of X and RMSE of Y.
+- **Prophet Model**: MAE of A and RMSE of B.
 
-These results indicate the models' effectiveness in forecasting urban traffic patterns.
+These results indicate the models' effectiveness in forecasting urban traffic patterns.
 
 ## Usage
 
@@ -74,5 +74,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Data sourced from [Traffic Volume Counts Dataset](https://data.cityofnewyork.us/Transportation/Traffic-Volume-Counts-2024-02-04/xyz123).
-- Inspired by urban traffic management studies and predictive analytics research.
+- Data sourced from [Traffic Volume Counts Dataset](https://data.cityofnewyork.us/Transportation/Traffic-Volume-Counts-2024-02-04/xyz123).
+- Inspired by urban traffic management studies and predictive analytics research.
